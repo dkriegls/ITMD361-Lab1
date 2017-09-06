@@ -3,10 +3,10 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Neil T.</title>
+	Neil T.
 </head>
 <body>
-  <p>&amp; Hello world. This is my first website!</p>
-  <p>I am a graduate student at IIT in Chicago</p>
+  <p>&amp; Hello world. This is my first website! </p>
+  <p>I am a graduate student at IIT in Chicago.</p>
 </body>
 </html>
