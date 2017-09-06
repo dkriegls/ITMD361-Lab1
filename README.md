@@ -6,7 +6,7 @@
 	Neil T.
 </head>
 <body>
-  <p>&amp; Hello world. This is my first website! </p>
+  <p>Hello world. This is my first website! </p>
   <p>I am a graduate student at IIT in Chicago.</p>
 </body>
 </html>
